@@ -129,7 +129,3 @@ If a command fails, you can either:
 ## License
 
 This project is open-source and is licensed under the MIT License.
-
----
-
-This `README` outlines the usage, features, and options of `mymake`. It provides guidance on how to set up and run the program, handle errors, and configure the environment for optimal performance.
